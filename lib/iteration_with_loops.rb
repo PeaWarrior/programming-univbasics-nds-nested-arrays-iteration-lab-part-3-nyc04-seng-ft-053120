@@ -13,4 +13,5 @@ def join_nested_strings(src)
     end
     primary_index += 1
   end
+  nested_string_array.join(" ")
 end
