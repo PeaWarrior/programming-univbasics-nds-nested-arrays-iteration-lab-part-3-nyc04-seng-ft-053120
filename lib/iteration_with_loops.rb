@@ -11,5 +11,6 @@ def join_nested_strings(src)
       end
       secondary_index += 1
     end
+    primary_index += 1
   end
 end
